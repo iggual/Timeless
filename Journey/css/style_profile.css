@@ -1,0 +1,310 @@
+
+/* reset */
+* {
+margin: 0;
+padding: 0;
+-moz-box-sizing: border-box;
+-webkit-box-sizing: border-box;
+box-sizing: border-box;
+}
+/* render html5 elements as block 
+   rendert html5 elemente als block  */
+
+header, footer, section, aside, nav, article { display: block;}
+
+body {
+background-color: #ccc;
+font-size: 16px;
+font-family: Arial, SunSans-Regular, Sans-Serif;
+color:#021323;
+background-image:url('../img/media/bkgrnd3.jpg');
+background-repeat:repeat;
+}
+
+        .calendars-time-info {
+            background-color: #fff;
+            padding: 20px;
+
+        }
+        .moon-icon {
+            font-size: 128px;
+            margin-top: 10px;
+        }
+        
+        .moon-image {
+            width: 128px;
+            height: 128px;
+            vertical-align: middle;
+            margin-top: 10px;
+        }
+        .date-info {
+            margin-top: 10px;
+        }
+       video {
+            width: 768px;
+            height: 768px;
+        }
+
+pre, code {
+font-size: 1.5em;
+}
+
+a {color: #000;}
+a:visited {color:#111;}
+a:hover {color: #fff;}
+a:active { color:#000;}
+
+
+h1 {
+font-size:42px;
+font-weight: 100;
+margin: 0 0 10px;
+}
+
+
+h2 {
+font-size:24px;
+font-weight: 100;
+margin: 0 0 10px;
+}
+
+
+
+h3 {
+font-size:64px;
+font-weight: 100;
+margin: 0 0 10px;
+}
+
+h4 {
+font-size:24px;
+font-weight: 900;
+margin: 0 0 10px;
+}
+
+figcaption {
+    font-style: italic;
+    color: #021323; /* A dark gray color */
+    font-size: 0.9em; /* Slightly smaller than the main text */
+    text-align: center; /* Center align the text */
+    padding-top: 5px; /* Add some space above the caption */
+    padding-bottom: 10px; /* Add some space above the caption */
+}
+
+img.download {vertical-align:middle;}
+img{border:none;}
+
+	
+/* ----------slovenceljski komentar-------------- */
+
+#container {
+max-width: 800px;
+min-width:768px;
+margin:0px  auto;
+/* background-color: #eee; */
+}
+
+/* ----------header for logo-------------- */
+header {
+	padding:0px;
+	background:#FFFFFF ;
+}
+	
+header p{
+	text-transform:uppercase;
+	font-size:14px;
+
+}
+header img{ padding: 0 0 0px;}
+
+
+/* -------------- navigation------------- */
+
+nav {
+font-size: 16px;
+font-weight: 100;
+background: #181818;
+color:#fff;
+}
+
+nav ul { 
+list-style-type: none; 
+margin:0;
+}
+
+nav li {
+display: inline;
+    margin-left: 0em; /* Adds space to the right of each list item */
+   margin-right: 0em;  /* Adds space to the right of each list item */
+}
+
+
+section ul {
+    list-style-type: none; /* Example: use default bullet points */
+/*    list-style-type: disc; /* Example: use default bullet points */    
+    padding-left: 2em; /* Example: indent the list items */
+    /* Add other styles specific to the section list */
+}
+
+section li {
+    margin-bottom: 1.5em; /* Example: add bottom margin between list items */
+    margin-left: 2em; /* Adds space to the right of each list item */
+    margin-right: 2em;  /* Adds space to the right of each list item */
+    line-height: 1.5em;
+    
+    /* Add other styles specific to the section list items */
+}
+
+
+nav a {
+display: inline-block;
+margin:0;
+color: #fff;
+border-right:1px solid #FFF;
+padding: 3px 15px;
+text-decoration: none;
+}
+nav a:visited {color: #fff;}
+
+nav a:hover {
+color: #f98c40;
+    transition: transform 1.5s ease;
+    transform: scale(1.5); /* Scale 1.5 to 150% continuously */
+/*font-size: 24px;*/
+
+font-weight: 900;
+}
+
+
+
+
+/* ----------------- content--------------------- */
+
+
+section#content {
+font-size: 16px;
+float: left;
+width: 100%;
+padding: 16px;
+background-color: #fff;
+min-height:480px;
+}
+p, pre {
+padding:  0 0 10px;
+line-height: 1.5em;
+}
+
+
+
+
+
+
+/* -------------- side infos ------------- */
+
+aside {
+padding: 0px;
+float:right;
+width: 0%;
+overflow: hidden;
+}
+
+/* -----------footer--------------------------- */
+footer {
+padding: 8px;
+background-color: #080808;
+color:#FFFFff;
+clear:both;
+}
+
+/* -----------footer--------------------------- */
+
+/* -----------AI RPG --------------------------- */
+
+<style>
+     .calendar {
+            margin-bottom: 0px;
+        }
+
+    .game-container {
+        background-color: #fff;
+        border: 1px solid #000;
+        border-radius: 5px;
+        padding: 16px;
+        margin-top: 20px;
+    }
+    .game-options {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        margin-top: 20px;
+    }
+    .game-option {
+        background-color: #294230; /* <!- square hover color --> */
+        border: 2px solid #000;
+       
+        color: #fff;
+        padding: 10px;
+        text-decoration: none;
+        transition: all 0.3s ease;
+    }
+    .game-option:hover {
+        background-color: #fff; /* <!- square hover color --> */
+        color: #000000;
+
+
+
+    }
+    .inventory {
+        margin-top: 16px;
+        padding: 10px;
+        background-color: #101010;
+        border: 2px solid #0e3f1d;
+        border-radius: 5px;
+    }
+    .status {
+        margin-top: 20px;
+        padding: 16px;
+        background-color: #101010;
+        border: 2px solid #0e3f1d;
+        border-radius: 5px;
+    }
+    @keyframes electricSpark {
+        0% { opacity: 0.2; }
+        50% { opacity: 1; }
+        100% { opacity: 0.2; }
+    }
+    .electric-text {
+        animation: electricSpark 2s infinite;               
+    }
+    
+    
+    /* General styles for links inside .game-options */
+.game-options a {
+    color: white; /* Default link color */
+    text-decoration: none; /* Remove underline */
+    font-size: 16px; /* Set font size */
+    font-family: Arial, sans-serif; /* Set font family */
+}
+
+/* Style for visited links inside .game-options */
+.game-options a:visited {
+    color: white; /* Color for visited links */
+}
+
+/* Style for links on hover inside .game-options */
+.game-options a:hover {
+    color: black; /* Color for links on hover */
+    text-decoration: none; /* Add underline on hover */
+}
+
+/* Style for links on active state inside .game-options */
+.game-options a:active {
+    color: brown; /* Color for links on active state */
+}
+    
+ 
+    
+</style>
+
+
+/* <!--by iggual | Tenerife 2024--> */
