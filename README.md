@@ -75,7 +75,7 @@ For a detailed project timeline and milestones, please refer to the [PROJECT_PLA
   - **3D Denoising**: Enhancing the quality and clarity of the 3D renders.
 
 ## License
-This project is licensed under the [Free Energy (FE)](LICENSE). 
+This project is licensed under the [Free Energy (FE)]. 
 
 ## Contact
 For any questions, feedback, or collaboration opportunities, 
