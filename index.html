@@ -1,0 +1,492 @@
+
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ætheria Calendar</title>
+    <link rel="stylesheet" href="Journey/css/style_profile.css" type="text/css" media="screen" />
+</head>
+<body>
+<div id="container">
+    <header>
+        <img src="Journey/img/banners/selected/EWBan_C_8.jpeg" alt="" width="800" height="50" border="0" />
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#">Æ</a></li>
+            <li><a href="#">T</a></li>
+            <li><a href="#">H</a></li>
+            <li><a href="#">E</a></li>
+            <li><a href="#">R</a></li>
+            <li><a href="#">I</a></li>
+            <li><a href="#">A</a></li>
+        </ul>
+    </nav>
+    <section id="content">
+        <figure>
+            <video autoplay loop muted playsinline>
+                <source src="Journey/img/media/CalC_2.mp4" type="video/mp4">
+                <img src="Journey/img/media/Calc.jpg" alt="Ætheria Calendar" style="width:768px;height:768px;">
+            </video>
+            <figcaption><strong>Tesla Cycles</strong>. Clockwork Contraption. Universal Harmonizer. Cosmic Cycles and Calendric Systems.</figcaption>
+        </figure>
+        <center><strong>Time:</strong> <span id="time-info"></span></center><br>
+        <div class="container">
+            <h1>Ætheria Calendar</h1>
+            <h2>A Timeless Journey</h2>
+            <br>
+            <p>Nikola Tesla said: <em>“I was born exactly at midnight, I don’t have a birthday and I never celebrate it.”</em></p>
+            <br><br>
+            <p>Dive into the mystical world of <strong>Ætheria Calendar</strong>, a chronicle that transcends conventional timekeeping. This portal harmonizes celestial cycles, ancient calendars, and modern technology to offer an immersive experience of time.</p>
+            <br><br>
+            <div class="key-features">
+                <h2>Key Features:</h2>
+                <ul>
+                    <li><strong>Ætheria Calendar System:</strong> Discover the unique Ætheria calendar, designed around Tesla Cycles, showcasing years, months, days, and more.</li>
+                    <li><strong>Multi-Cycle Tracking:</strong> Navigate through various calendric periods, including Tesla Wave, Astral, DNA, TAO, and more, each offering insights into Cosmic and personal rhythms.</li>
+                    <li><strong>Moon Phase Tracker:</strong> Stay attuned to Lunar phases, complete with illuminance and age calculations, enhancing your connection to celestial bodies.</li>
+                    <li><strong>Historical Context:</strong> Calculate days since Nikola Tesla's birth, adding a historical dimension to your timekeeping journey.</li>
+                    <li><strong>Palindromic Dates:</strong> Explore past and future dates with a palindromic twist, celebrating symmetry in time.</li>
+                    <li><strong>Dynamic Time Display:</strong> Real-time updates ensure you're always in sync with the Cosmos, with Julian and <em>Gregorian</em> dates displayed alongside the current time.</li>
+                    <li><strong>The Zero Day:</strong> a day of meditation and contemplation, offers a moment of stillness and renewal, connecting us to the deeper currents of the Universe.</li>
+                </ul>
+            </div>
+            <br><br>
+            <p>Embark on a journey through time, where every moment is a testament to the interconnectedness of the Universe. Welcome to <strong>Ætheria Calendar</strong>—where time is not just measured, but experienced.</p>
+        </div>
+        <center>
+            <br><br>
+            <h1>Ætheria Calendar</h1>
+            <h2>Tesla Cycles</h2><br><br>
+        </center>
+        <center>
+            <div class="profile-container">
+                <ul>
+                    <li><strong>Year:</strong> № <span id="custom-calendar-year"></span></li>
+                    <li><strong>Day of Year:</strong> <span id="custom-calendar-day-of-year"></span></li>
+                    <li><strong>Month:</strong> <span id="custom-calendar-month"></span></li>
+                    <li><strong>Day of Month:</strong> <span id="custom-calendar-day-of-month"></span></li>
+                    <li><strong>Tesla Wave Period:</strong> <span id="custom-calendar-day-of-week"></span></li>
+                    <li><strong>Astral:</strong> <span id="tesla-calendar-period"></span></li>
+                    <li><strong>DNA Period:</strong> <span id="dna-calendar-period"></span></li>
+                    <li><strong>TAO Period:</strong> <span id="iching-calendar-period"></span></li>
+                    <li><strong>Tesla Nexus Period:</strong> <span id="new-cycle-period"></span></li>
+                    <li><strong>96-Day Cycle Period:</strong> <span id="medium-cycle-period"></span></li>
+                    <li><strong>24-Day Cycle Period:</strong> <span id="short-cycle-period"></span></li>
+                    <li><strong>Days Since Tesla's Birthday:</strong> <span id="days-since-birthday"></span></li>
+                </ul>
+            </div>
+            <script>
+                function julianDayNumber(year, month, day) {
+                    if (month <= 2) {
+                        year -= 1;
+                        month += 12;
+                    }
+                    const A = Math.floor(year / 100);
+                    const B = 2 - A + Math.floor(A / 4);
+                    const JD = Math.floor(365.25 * (year + 4716)) + Math.floor(30.6001 * (month + 1)) + day + B - 1524.5;
+                    return JD;
+                }
+
+                function getCustomCalendarDate(date) {
+                    const startYear = 1856;
+                    const startDate = new Date(startYear, 6, 10);
+                    const startJD = julianDayNumber(startDate.getFullYear(), startDate.getMonth() + 1, startDate.getDate());
+                    const currentJD = julianDayNumber(date.getFullYear(), date.getMonth() + 1, date.getDate());
+                    let dayOfYear = (currentJD - startJD) % 384;
+
+                    if (dayOfYear < 0) dayOfYear += 384;
+
+                    const monthLengths = [29, 30, 29, 30, 29, 30, 29, 30, 29, 30, 29, 30, 29];
+                    let month = 0;
+                    let dayOfMonth = dayOfYear;
+
+                    while (dayOfMonth >= monthLengths[month]) {
+                        dayOfMonth -= monthLengths[month];
+                        month++;
+                    }
+
+                    const monthNames = [
+                        '1/13', '2/13', '3/13', '4/13', '5/13',
+                        '6/13', '7/13', '8/13', '9/13', '10/13',
+                        '11/13', '12/13', '13/13'
+                    ];
+
+                    const dayOfWeekNames = [
+                        '1/8', '2/8', '3/8', '4/8',
+                        '5/8', '6/8', '7/8', '8/8'
+                    ];
+
+                    const dayOfWeek = dayOfYear % 8;
+
+                    const yearCycle = Math.floor((currentJD - startJD) / 384) + 1;
+
+                    return {
+                        dayOfWeek: dayOfWeekNames[dayOfWeek],
+                        month: monthNames[month],
+                        dayOfMonth: dayOfMonth + 1,
+                        dayOfYear: dayOfYear + 1,
+                        year: yearCycle,
+                        monthLength: monthLengths[month]
+                    };
+                }
+
+                function getTeslaCalendarPeriod(dayOfYear) {
+                    const periodNames = [
+                        '1/12 | Capricornium:', '2/12 | Aquarianum:', '3/12 | Pisceanium:', '4/12 | Ariesium:', '5/12 | Tauranium:', '6/12 | Geminium:',
+                        '7/12 | Cancerium:', '8/12 | Leonium:', '9/12 | Virgonium:', '10/12 | Libranium:', '11/12 | Scorpium:', '12/12 | Sagittarium:'
+                    ];
+                    const periodLength = 32;
+                    const periodIndex = Math.floor((dayOfYear - 1) / periodLength);
+                    const dayInPeriod = ((dayOfYear - 1) % periodLength) + 1;
+
+                    return `${periodNames[periodIndex]} ${dayInPeriod}/${periodLength}`;
+                }
+
+                function getDNACalendarPeriod(dayOfYear) {
+                    const periodNames = [
+                        '1/6 | DNA period:', '2/6 | DNA period:', '3/6 | DNA period:', '4/6 | DNA period:', '5/6 | DNA period:', '6/6 | DNA period'
+                    ];
+                    const periodLength = 64;
+                    const periodIndex = Math.floor((dayOfYear - 1) / periodLength);
+                    const dayInPeriod = ((dayOfYear - 1) % periodLength) + 1;
+
+                    return `${periodNames[periodIndex]} ${dayInPeriod}/${periodLength}`;
+                }
+
+                function getIchingCalendarPeriod(dayOfYear) {
+                    const periodNames = [
+                        '1/3 | I-Ching Lines', '2/3 | I-Ching Lines', '3/3 | I-Ching Lines'
+                    ];
+                    const periodLength = 128;
+                    const periodIndex = Math.floor((dayOfYear - 1) / periodLength);
+                    const dayInPeriod = ((dayOfYear - 1) % periodLength) + 1;
+
+                    return `${periodNames[periodIndex]} ${dayInPeriod}/${periodLength}`;
+                }
+
+                function getNewCyclePeriod(dayOfYear) {
+                    const periodNames = [
+                        '1/2 | Tesla Nexus', '2/2 | Tesla Nexus'
+                    ];
+                    const periodLength = 192;
+                    const periodIndex = Math.floor((dayOfYear - 1) / periodLength);
+                    const dayInPeriod = ((dayOfYear - 1) % periodLength) + 1;
+
+                    return `${periodNames[periodIndex]} ${dayInPeriod}/${periodLength}`;
+                }
+
+                function getMediumCyclePeriod(dayOfYear) {
+                    const periodNames = [
+                        '1/4 | Tesla Harmony', '2/4 | Tesla Harmony', '3/4 | Tesla Harmony', '4/4 | Tesla Harmony'
+                    ];
+                    const periodLength = 96;
+                    const periodIndex = Math.floor((dayOfYear - 1) / periodLength);
+                    const dayInPeriod = ((dayOfYear - 1) % periodLength) + 1;
+
+                    return `${periodNames[periodIndex]} ${dayInPeriod}/${periodLength}`;
+                }
+
+                function getShortCyclePeriod(dayOfYear) {
+                    const periodNames = [
+                        '1/16 | Tesla Flux', '2/16 | Tesla Flux', '3/16 | Tesla Flux', '4/16 | Tesla Flux', '5/16 | Tesla Flux', '6/16 | Tesla Flux',
+                        '7/16 | Tesla Flux', '8/16 | Tesla Flux', '9/16 | Tesla Flux', '10/16 | Tesla Flux', '11/16 | Tesla Flux', '12/16 | Tesla Flux',
+                        '13/16 | Tesla Flux', '14/16 | Tesla Flux', '15/16 | Tesla Flux', '16/16 | Tesla Flux'
+                    ];
+                    const periodLength = 24;
+                    const periodIndex = Math.floor((dayOfYear - 1) / periodLength);
+                    const dayInPeriod = ((dayOfYear - 1) % periodLength) + 1;
+
+                    return `${periodNames[periodIndex]} ${dayInPeriod}/${periodLength}`;
+                }
+
+                function calculateDaysSinceBirthday(now) {
+                    const teslaBirthday = new Date(1856, 6, 10);
+                    const nowJD = julianDayNumber(now.getFullYear(), now.getMonth() + 1, now.getDate());
+                    const birthdayJD = julianDayNumber(teslaBirthday.getFullYear(), teslaBirthday.getMonth() + 1, teslaBirthday.getDate());
+                    return nowJD - birthdayJD;
+                }
+
+                function calculateMoonPhase(date) {
+                    const year = date.getFullYear();
+                    const month = date.getMonth() + 1;
+                    const day = date.getDate();
+                    const JD = julianDayNumber(year, month, day);
+                    const newMoons = Math.floor((JD - 2451550.1) / 29.53);
+                    let phase = (JD - 2451550.1) - newMoons * 29.53;
+                    const PHASE_OFFSET = -0.35; //* Moon Phase Offset. Change to fit your location.
+                    phase = (phase + PHASE_OFFSET) % 29.53; 
+                    return phase;
+                }
+
+                function getMoonPhaseImage(phase) {
+                    if (phase >= 0 && phase < 1.845) return 'Journey/img/moon_phases/new_moon.png';
+                    if (phase >= 1.845 && phase < 5.535) return 'Journey/img/moon_phases/waxing_crescent.png';
+                    if (phase >= 5.535 && phase < 9.225) return 'Journey/img/moon_phases/first_quarter.png';
+                    if (phase >= 9.225 && phase < 12.915) return 'Journey/img/moon_phases/waxing_gibbous.png';
+                    if (phase >= 12.915 && phase < 16.605) return 'Journey/img/moon_phases/full_moon.png';
+                    if (phase >= 16.605 && phase < 20.295) return 'Journey/img/moon_phases/waning_gibbous.png';
+                    if (phase >= 20.295 && phase < 23.985) return 'Journey/img/moon_phases/third_quarter.png';
+                    if (phase >= 23.985 && phase < 27.675) return 'Journey/img/moon_phases/waning_crescent.png';
+                    return 'img/moon_phases/new_moon.jpg';
+                }
+
+                function getMoonPhaseName(phase) {
+                    if (phase >= 0 && phase < 1.845) return 'New Moon';
+                    if (phase >= 1.845 && phase < 5.535) return 'Waxing Crescent';
+                    if (phase >= 5.535 && phase < 9.225) return 'First Quarter';
+                    if (phase >= 9.225 && phase < 12.915) return 'Waxing Gibbous';
+                    if (phase >= 12.915 && phase < 16.605) return 'Full Moon';
+                    if (phase >= 16.605 && phase < 20.295) return 'Waning Gibbous';
+                    if (phase >= 20.295 && phase < 23.985) return 'Third Quarter';
+                    if (phase >= 23.985 && phase < 27.675) return 'Waning Crescent';
+                    return 'New Moon';
+                }
+
+                function calculateIllumination(phase) {
+                    // Ensure the phase is within one cycle (0 to 29.53)
+                    phase = phase % 29.53;
+                    // Calculate illumination percentage
+                    let illumination = (1 - Math.cos(Math.PI * phase / 14.765)) / 2 * 100;
+                    // Clamp the illumination between 0 and 100
+                    return Math.min(Math.max(illumination, 0), 100);
+                }
+
+                function toJulianDay(year, month, day) {
+                    if (month <= 2) {
+                        year -= 1;
+                        month += 12;
+                    }
+                    const A = Math.floor(year / 100);
+                    const B = 2 - A + Math.floor(A / 4);
+                    return Math.floor(365.25 * (year + 4716)) + Math.floor(30.6001 * (month + 1)) + day + B - 1524.5;
+                }
+
+                function fromJulianDay(jd) {
+                    jd += 0.5;
+                    const Z = Math.floor(jd);
+                    const F = jd - Z;
+                    let A = Z;
+                    if (Z >= 2299161) {
+                        const alpha = Math.floor((Z - 1867216.25) / 36524.25);
+                        A = Z + 1 + alpha - Math.floor(alpha / 4);
+                    }
+                    const B = A + 1524;
+                    const C = Math.floor((B - 122.1) / 365.25);
+                    const D = Math.floor(365.25 * C);
+                    const E = Math.floor((B - D) / 30.6001);
+                    const day = B - D - Math.floor(30.6001 * E) + F;
+                    const month = E < 14 ? E - 1 : E - 13;
+                    const year = month > 2 ? C - 4716 : C - 4715;
+                    return { year, month, day };
+                }
+
+                function gregorianToJulian(gYear, gMonth, gDay) {
+                    const jd = toJulianDay(gYear, gMonth, gDay);
+                    return fromJulianDay(jd - 13);
+                }
+
+                function updateClock() {
+                    const now = new Date();
+                    let hours = now.getHours().toString().padStart(2, '0');
+                    let minutes = now.getMinutes().toString().padStart(2, '0');
+                    let seconds = now.getSeconds().toString().padStart(2, '0');
+                    document.getElementById('clock').textContent = `${hours}:${minutes}:${seconds}`;
+                }
+
+                function updateDates() {
+                    const now = new Date();
+                    const gregorianDate = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, '0')}-${String(now.getDate()).padStart(2, '0')}`;
+                    const julianDateObj = gregorianToJulian(now.getFullYear(), now.getMonth() + 1, now.getDate());
+                    const julianDate = `${julianDateObj.year}-${String(julianDateObj.month).padStart(2, '0')}-${String(julianDateObj.day).padStart(2, '0')}`;
+
+                    document.getElementById('gregorian-date').textContent = gregorianDate;
+                    document.getElementById('julian-date').textContent = julianDate;
+                }
+
+                function formatDate(date) {
+                    const options = { year: 'numeric', month: 'long', day: 'numeric', weekday: 'long' };
+                    return date.toLocaleDateString('en-US', options);
+                }
+
+                function updateTimeInfo() {
+                    const now = new Date();
+                    const customCalendarDate = getCustomCalendarDate(now);
+                    const teslaCalendarPeriod = getTeslaCalendarPeriod(customCalendarDate.dayOfYear);
+                    const dnaCalendarPeriod = getDNACalendarPeriod(customCalendarDate.dayOfYear);
+                    const ichingCalendarPeriod = getIchingCalendarPeriod(customCalendarDate.dayOfYear);
+                    const newCyclePeriod = getNewCyclePeriod(customCalendarDate.dayOfYear);
+                    const mediumCyclePeriod = getMediumCyclePeriod(customCalendarDate.dayOfYear);
+                    const shortCyclePeriod = getShortCyclePeriod(customCalendarDate.dayOfYear);
+                    const daysSinceBirthday = calculateDaysSinceBirthday(now);
+                    const moonPhase = calculateMoonPhase(now);
+                    const phaseInfo = getMoonPhaseName(moonPhase);
+                    const illumination = calculateIllumination(moonPhase);
+                    const moonAge = moonPhase.toFixed(2);
+                    const formattedDate = formatDate(now);
+                    const formattedTime = now.toLocaleTimeString('en-US');
+
+                    document.getElementById('custom-calendar-day-of-week').textContent = customCalendarDate.dayOfWeek;
+                    document.getElementById('custom-calendar-day-of-month').textContent = `${customCalendarDate.dayOfMonth}/${customCalendarDate.monthLength}`;
+                    document.getElementById('custom-calendar-month').textContent = customCalendarDate.month;
+                    document.getElementById('custom-calendar-day-of-year').textContent = `${customCalendarDate.dayOfYear}/384`;
+                    document.getElementById('custom-calendar-year').textContent = customCalendarDate.year;
+                    document.getElementById('tesla-calendar-period').textContent = teslaCalendarPeriod;
+                    document.getElementById('dna-calendar-period').textContent = dnaCalendarPeriod;
+                    document.getElementById('iching-calendar-period').textContent = ichingCalendarPeriod;
+                    document.getElementById('new-cycle-period').textContent = newCyclePeriod;
+                    document.getElementById('medium-cycle-period').textContent = mediumCyclePeriod;
+                    document.getElementById('short-cycle-period').textContent = shortCyclePeriod;
+                    document.getElementById('days-since-birthday').textContent = daysSinceBirthday;
+                    document.getElementById('moon-phase').textContent = `${phaseInfo}`;
+                    document.getElementById('illumination').textContent = `${illumination.toFixed(2)}%`;
+                    document.getElementById('moon-age').textContent = `${moonAge} days`;
+                    document.getElementById('date-info').textContent = `${formattedDate}`;
+                    document.getElementById('time-info').textContent = `${formattedTime}`;
+
+                    const moonImage = getMoonPhaseImage(moonPhase);
+                    document.getElementById('moon-icon').innerHTML = `<img src="${moonImage}" alt="${phaseInfo}" class="moon-image">`;
+                    
+                    const datePlus8 = new Date(now);
+                    datePlus8.setDate(now.getDate() + 8);
+                    const dateMinus8 = new Date(now);
+                    dateMinus8.setDate(now.getDate() - 8);
+                    const datePlus13 = new Date(now);
+                    datePlus13.setDate(now.getDate() + 13);
+                    const dateMinus13 = new Date(now);
+                    dateMinus13.setDate(now.getDate() - 13);
+                    const datePlus20 = new Date(now);
+                    datePlus20.setDate(now.getDate() + 20);
+                    const dateMinus20 = new Date(now);
+                    dateMinus20.setDate(now.getDate() - 20);
+                    const datePlus32 = new Date(now);
+                    datePlus32.setDate(now.getDate() + 32);
+                    const dateMinus32 = new Date(now);
+                    dateMinus32.setDate(now.getDate() - 32);
+                    const datePlus64 = new Date(now);
+                    datePlus64.setDate(now.getDate() + 64);
+                    const dateMinus64 = new Date(now);
+                    dateMinus64.setDate(now.getDate() - 64);
+                    const datePlus128 = new Date(now);
+                    datePlus128.setDate(now.getDate() + 128);
+                    const dateMinus128 = new Date(now);
+                    dateMinus128.setDate(now.getDate() - 128);
+                    const datePlus192 = new Date(now);
+                    datePlus192.setDate(now.getDate() + 192);
+                    const dateMinus192 = new Date(now);
+                    dateMinus192.setDate(now.getDate() - 192);
+                    const datePlus384 = new Date(now);
+                    datePlus384.setDate(now.getDate() + 384); 
+                    const dateMinus384 = new Date(now);
+                    dateMinus384.setDate(now.getDate() - 384);                 
+
+                    document.getElementById('date-plus-8').textContent = formatDate(datePlus8);
+                    document.getElementById('date-minus-8').textContent = formatDate(dateMinus8);
+                    document.getElementById('date-plus-13').textContent = formatDate(datePlus13);
+                    document.getElementById('date-minus-13').textContent = formatDate(dateMinus13);
+                    document.getElementById('date-plus-20').textContent = formatDate(datePlus20);
+                    document.getElementById('date-minus-20').textContent = formatDate(dateMinus20);
+                    document.getElementById('date-plus-32').textContent = formatDate(datePlus32);
+                    document.getElementById('date-minus-32').textContent = formatDate(dateMinus32);
+                    document.getElementById('date-plus-64').textContent = formatDate(datePlus64);                   
+                    document.getElementById('date-minus-64').textContent = formatDate(dateMinus64);
+                    document.getElementById('date-plus-128').textContent = formatDate(datePlus128);                    
+                    document.getElementById('date-minus-128').textContent = formatDate(dateMinus128);
+                    document.getElementById('date-plus-192').textContent = formatDate(datePlus192);
+                    document.getElementById('date-minus-192').textContent = formatDate(dateMinus192);
+                    document.getElementById('date-plus-384').textContent = formatDate(datePlus384);                    
+                    document.getElementById('date-minus-384').textContent = formatDate(dateMinus384);
+                }
+
+                setInterval(updateTimeInfo, 1000);
+                setInterval(updateClock, 1000);
+                setInterval(updateDates, 1000);
+                updateTimeInfo();
+                updateClock();
+                updateDates();
+            </script>
+            <section>
+                <br><br>
+                <h1>Moon Phase</h1>
+                <h2>Timezone: TWZ</h2>
+            </section>
+            <br>
+            <div class="calendars-time-info">
+                <strong>Moon Phase:</strong> <span id="moon-phase"></span>
+                <br><br>
+                <strong>Moon Luminosity:</strong> <span id="illumination"></span>
+                <br><br>
+                <strong>Moon Age:</strong> <span id="moon-age"></span>
+                <br>
+                <div id="moon-icon" class="moon-icon"></div>
+                <br><br>
+                <h1>Palindromic Dates</h1>
+                <h2>Past & Future</h2>
+                <strong>Today </strong>(GC):  <span id="date-info"></span>   
+                <br><br><br>
+                <div>
+                    <h2>8 Days</h2>  
+                    <strong>+8 days:</strong> <span id="date-plus-8"></span>   
+                     <br>                         
+                    <strong>-8 days ago:</strong> <span id="date-minus-8"></span>
+                    <br>
+                    <br><br>
+                    <h2>13 Days</h2>
+                    <strong>+13 days:</strong> <span id="date-plus-13"></span>
+                    <br>
+                    <strong>-13 days ago:</strong> <span id="date-minus-13"></span>
+                    <br>
+                    <br><br>
+                    <h2>20 Days</h2>
+                    <strong>+20:</strong> <span id="date-plus-20"></span>       
+                    <br>             
+                    <strong>-20 days ago:</strong> <span id="date-minus-20"></span>
+                    <br>
+                    <br><br>
+                    <h2>32 Days</h2>
+                    <strong>+32 days:</strong> <span id="date-plus-32"></span>
+                    <br>
+                    <strong>-32 days ago:</strong> <span id="date-minus-32"></span>
+                    <br>
+                    <br><br>
+                    <h2>64 Days</h2>
+                    <strong>+64 days:</strong> <span id="date-plus-64"></span>       
+                    <br>         
+                    <strong>-64 days ago:</strong> <span id="date-minus-64"></span>
+                    <br>
+                    <br><br>
+                    <h2>128 Days</h2>
+                    <strong>+128 days:</strong> <span id="date-plus-128"></span>    
+                    <br>              
+                    <strong>-128 days ago:</strong> <span id="date-minus-128"></span>
+                    <br>
+                    <br><br>
+                    <h2>192 Days</h2>
+                    <strong>+192 days:</strong> <span id="date-plus-192"></span> 
+                    <br>
+                    <strong>-192 days ago:</strong> <span id="date-minus-192"></span>               
+                    <br>
+                    <br><br>
+                    <h2>384 Days</h2>
+                    <strong>+384 days:</strong> <span id="date-plus-384"></span> 
+                    <br>
+                    <strong>-384 days ago:</strong> <span id="date-minus-384"></span>                                 
+                    <br>
+                </div>
+               
+            </div>
+            <br><br>
+             <img src="Journey/img/banners/selected/A_Flow_52.jpg" alt="Æther Flow" style="width:768px;height:256px;">
+        </center>
+    </section>
+    <footer>
+        <div align="center">
+            <div class="date-container">
+                JC: <span id="julian-date"></span> — <span id="clock"></span> — GC: <span id="gregorian-date"></span>
+            </div>
+        </div>
+    </footer>
+</div>
+</body>
+</html>
