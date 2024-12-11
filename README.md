@@ -79,5 +79,5 @@ This project is licensed under the Free Energy (FE).
 
 ## Contact
 For any questions, feedback, or collaboration opportunities, 
-i'm here on [GitHub] somewhere, or [iggual@protonmail.com], it's easy to find me!:) 
+i'm here on [GitHub] somewhere, or [timeparalax@gmail.com], it's easy to find me!:) 
 
