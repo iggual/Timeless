@@ -1,4 +1,3 @@
-
 <!doctype html>
 <html lang="en">
 <head>
@@ -32,11 +31,14 @@
             <figcaption><strong>Tesla Cycles</strong>. Clockwork Contraption. Universal Harmonizer. Cosmic Cycles and Calendric Systems.</figcaption>
         </figure>
         <center><strong>Time:</strong> <span id="time-info"></span></center><br>
+        
+       
         <div class="container">
+
             <h1>Ætheria Calendar</h1>
             <h2>A Timeless Journey</h2>
             <br>
-            <p>Nikola Tesla said: <em>“I was born exactly at midnight, I don’t have a birthday and I never celebrate it.”</em></p>
+            <p><strong>Nikola Tesla</strong> said: <em>“I was born exactly at midnight, I don’t have a birthday and I never celebrate it.”</em></p>
             <br><br>
             <p>Dive into the mystical world of <strong>Ætheria Calendar</strong>, a chronicle that transcends conventional timekeeping. This portal harmonizes celestial cycles, ancient calendars, and modern technology to offer an immersive experience of time.</p>
             <br><br>
@@ -229,7 +231,7 @@
                     if (phase >= 16.605 && phase < 20.295) return 'Journey/img/moon_phases/waning_gibbous.png';
                     if (phase >= 20.295 && phase < 23.985) return 'Journey/img/moon_phases/third_quarter.png';
                     if (phase >= 23.985 && phase < 27.675) return 'Journey/img/moon_phases/waning_crescent.png';
-                    return 'img/moon_phases/new_moon.jpg';
+                    return 'Journey/img/moon_phases/new_moon.png';
                 }
 
                 function getMoonPhaseName(phase) {
@@ -310,6 +312,32 @@
                     return date.toLocaleDateString('en-US', options);
                 }
 
+                function formatToRoman(num) {
+                    const romanNumerals = [
+                        { value: 1000, symbol: 'M' },
+                        { value: 900, symbol: 'CM' },
+                        { value: 500, symbol: 'D' },
+                        { value: 400, symbol: 'CD' },
+                        { value: 100, symbol: 'C' },
+                        { value: 90, symbol: 'XC' },
+                        { value: 50, symbol: 'L' },
+                        { value: 40, symbol: 'XL' },
+                        { value: 10, symbol: 'X' },
+                        { value: 9, symbol: 'IX' },
+                        { value: 5, symbol: 'V' },
+                        { value: 4, symbol: 'IV' },
+                        { value: 1, symbol: 'I' }
+                    ];
+                    let roman = '';
+                    for (const { value, symbol } of romanNumerals) {
+                        while (num >= value) {
+                            roman += symbol;
+                            num -= value;
+                        }
+                    }
+                    return roman;
+                }
+
                 function updateTimeInfo() {
                     const now = new Date();
                     const customCalendarDate = getCustomCalendarDate(now);
@@ -326,6 +354,9 @@
                     const moonAge = moonPhase.toFixed(2);
                     const formattedDate = formatDate(now);
                     const formattedTime = now.toLocaleTimeString('en-US');
+                    const romanDay = formatToRoman(now.getDate());
+                    const romanMonth = formatToRoman(now.getMonth() + 1);
+                    const romanYear = formatToRoman(now.getFullYear());
 
                     document.getElementById('custom-calendar-day-of-week').textContent = customCalendarDate.dayOfWeek;
                     document.getElementById('custom-calendar-day-of-month').textContent = `${customCalendarDate.dayOfMonth}/${customCalendarDate.monthLength}`;
@@ -344,6 +375,7 @@
                     document.getElementById('moon-age').textContent = `${moonAge} days`;
                     document.getElementById('date-info').textContent = `${formattedDate}`;
                     document.getElementById('time-info').textContent = `${formattedTime}`;
+                    document.getElementById('roman-date').textContent = `${romanDay} ${romanMonth} ${romanYear}`;
 
                     const moonImage = getMoonPhaseImage(moonPhase);
                     document.getElementById('moon-icon').innerHTML = `<img src="${moonImage}" alt="${phaseInfo}" class="moon-image">`;
@@ -474,10 +506,10 @@
                     <strong>-384 days ago:</strong> <span id="date-minus-384"></span>                                 
                     <br>
                 </div>
-               
             </div>
-            <br><br>
              <img src="Journey/img/banners/selected/A_Flow_52.jpg" alt="Æther Flow" style="width:768px;height:256px;">
+             <br>
+             <h2><span id="roman-date"></span></h2> 
         </center>
     </section>
     <footer>
