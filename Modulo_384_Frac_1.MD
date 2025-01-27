@@ -1,5 +1,5 @@
 
-# Calendar modulo 384 | Factorization
+# Calendar Modulo 384 | Factorization
 
 ### Prime Factorization
 The prime factorization of 384 is \(384 = 2^7 \times 3\). Let's break down how this factorization helps us understand the structure and properties of the number 384.
