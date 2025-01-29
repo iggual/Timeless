@@ -68,7 +68,6 @@ Time is such an interesting topic actually. I remember as a kid I thought that n
 
 ### Scientific Perspectives
 - **Quantum Mechanics**: In quantum mechanics, the concept of superposition suggests that particles can exist in multiple states simultaneously until measured. This can be seen as a reflection of the infinite potential of the present moment.
-- **General Relativity**: Einstein's theory of general relativity posits that time is relative and can be affected by gravity and motion. While this doesn't directly support the idea of time as a point, it does suggest that our perception of time is not absolute and can vary based on our frame of reference.
 - **Fractal Geometry**: Fractal geometry provides a mathematical framework for understanding the self-similar patterns in nature and the Universe, supporting the idea of a fractal reality.
 
 ## 8. Integrating the Ideas
