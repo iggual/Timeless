@@ -2,7 +2,7 @@
 ## From Time Wave Zero to the Fractal Nature of Reality
 
 ## Introduction
-Time is such an interesting topic actually. I remember as a kid I thought that nothing was more boring than thinking about time. Newton misled me with his theory of the perfectly flat timeline flow. And there are so many different possible ways to think about time.
+Time is such an interesting topic actually. I remember as a kid I thought that there's nothing more boring than thinking about time. Newton misled me with his theory of the perfectly flat timeline flow. And there are so many different possible ways to think about time.
 
 - **Time is the present moment. Eternal now. Time is zero.**
 - **In geometry, that's the point, without dimension.**
