@@ -23,7 +23,7 @@ Nikola Tesla's alternator with 10,000 cycles per second (10 kHz) and 384 poles i
 ## Connection to the Wheelwork of Nature
 
 1. **Synchronization with Natural Cycles**:
-   - **Biological Cycles**: As discussed earlier, the number 384 has interesting relationships with biological cycles. The alternator's 384 poles could be seen as a way to synchronize with these natural rhythms, potentially enhancing the effectiveness of certain biological or environmental applications.
+   - **Biological Cycles**: The number 384 has interesting relationships with biological cycles. The alternator's 384 poles could be seen as a way to synchronize with these natural rhythms, potentially enhancing the effectiveness of certain biological or environmental applications.
    - **Planetary and Celestial Cycles**: Tesla was known for his interest in the harmonics of the universe and the idea of "resonant frequencies" of the Earth and other celestial bodies. The 384 poles might be a nod to the idea of aligning with the natural frequencies of the Earth or other planetary bodies.
 
 2. **Energy and Vibration**:
