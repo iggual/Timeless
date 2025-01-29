@@ -8,13 +8,10 @@ Time is such an interesting topic actually. I remember as a kid I thought that n
 - **In geometry, that's the point, without dimension.**
 - **Reality is made of time, not in time.**
 
-## 1. Newtonian vs. Relativistic Time
+## 1. Newtonian Time
 
 ### Newtonian Time
 - In Newtonian physics, time is considered absolute and uniform across all observers. This means that the passage of time is the same everywhere, regardless of motion or gravitational fields. This view can seem simplistic and perhaps even misleading when compared to more modern theories.
-
-### Relativistic Time
-- Einstein's theory of relativity introduced the idea that time is relative and can be affected by motion (Special Relativity) and gravity (General Relativity). This means that time can dilate or contract depending on the observer's frame of reference. For example, time passes more slowly for objects moving at high speeds or in strong gravitational fields.
 
 ## 2. Time as the Present Moment
 
