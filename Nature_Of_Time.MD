@@ -10,7 +10,6 @@ Time is such an interesting topic actually. I remember as a kid I thought that n
 
 ## 1. Newtonian Time
 
-### Newtonian Time
 - In Newtonian physics, time is considered absolute and uniform across all observers. This means that the passage of time is the same everywhere, regardless of motion or gravitational fields. This view can seem simplistic and perhaps even misleading when compared to more modern theories.
 
 ## 2. Time as the Present Moment
