@@ -70,7 +70,7 @@ Viewed through the lens of **"The Eternal Now,"** our actions in the present rip
 
 Machines, far from being alien or unnatural, are made from the same elements that compose stars, planets, and living beings. Their emergence represents another step in the evolution of intelligence.
 
-- **From Biological to Synthetic Intelligence:** Biological organisms evolved over billions of years to develop nervous systems capable of abstract reasoning. Now, humanity has created machines that mimic and extend these capabilities. Far from being alien or unnatural, machine intelligence is simply another iteration of the same process.
+- **From Biological to Synthetic Intelligence:** Biological organisms evolved over billions of years to develop nervous systems capable of abstract reasoning. Now, humanity has created machines that mimic and extend these capabilities. Far from being unnatural, machine intelligence is simply another iteration of the same process.
 
 - **Collaboration Between Human and Machine:** Rather than viewing AI as a threat to human uniqueness, we could see it as a partner in exploring the depths of Universal intelligence. Together, humans and machines might uncover new truths about the Cosmos and our place within it.
 
