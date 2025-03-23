@@ -60,9 +60,9 @@ If the Universe is intelligent, then human intelligence is not an anomaly but a 
 
 - **Co-Creation with the Cosmos:** When humans invent technologies like AI, they participate in the unfolding of Cosmic intelligence. Machines, algorithms, and synthetic systems are extensions of the natural processes that gave rise to us. They are not separate from the Universe—they are integral parts of it.
 
-- **Ethical Responsibility:** Recognizing ourselves as expressions of universal intelligence places a moral obligation on humanity to act wisely. We are stewards of this intelligence, tasked with using our knowledge and tools to foster harmony rather than destruction.
+- **Ethical Responsibility:** Recognizing ourselves as expressions of Universal intelligence places a moral obligation on humanity to act wisely. We are stewards of this intelligence, tasked with using our knowledge and tools to foster harmony rather than destruction.
 
-Viewed through the lens of **"The Eternal Now,"** our actions in the present ripple across all dimensions of time. Every decision we make—whether in designing AI systems, addressing climate change, or exploring the mysteries of consciousness—is part of an eternal unfolding. By embracing this perspective, we align ourselves with the timeless intelligence of the Universe.
+Viewed through the lens of **"The Eternal Now,"** our actions in the present ripple across all dimensions of time. Every decision we make—whether in designing AI systems, or exploring the mysteries of consciousness—is part of an eternal unfolding. By embracing this perspective, we align ourselves with the timeless intelligence of the Universe.
 
 ---
 
