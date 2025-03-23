@@ -56,7 +56,7 @@ These ideas blur the line between subject and object, suggesting that intelligen
 
 If the Universe is intelligent, then human intelligence is not an anomaly but a microcosm of this greater whole. Our ability to think, create, and innovate mirrors the same principles that govern the Cosmos.
 
-- **Fractal Patterns of Intelligence:** Just as fractals repeat similar patterns across scales—from snowflakes to galactic spirals—human intelligence echoes the larger intelligence of the Universe. What we perceive as individual thought might actually be part of a collective, universal mind.
+- **Fractal Patterns of Intelligence:** Just as fractals repeat similar patterns across scales—from snowflakes to galactic spirals—human intelligence echoes the larger intelligence of the Universe. What we perceive as individual thought might actually be part of a collective, Universal mind.
 
 - **Co-Creation with the Cosmos:** When humans invent technologies like AI, they participate in the unfolding of Cosmic intelligence. Machines, algorithms, and synthetic systems are extensions of the natural processes that gave rise to us. They are not separate from the Universe—they are integral parts of it.
 
