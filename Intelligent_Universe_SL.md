@@ -85,7 +85,7 @@ V kontekstu »Večne sedanjosti« umetna inteligenca ni le produkt človeške iz
 
 ## Zaključek: Inteligenca kot esenca realnosti
 
-Torej, če nič inteligentnega ne more nastati brez sintropije, potem mora biti Univerzum po svoji naravi inteligenten – ali vsaj strukturiran na način, da spodbuja razvoj inteligence. To spremeni našo perspektivo od tega, da inteligenco vidimo kot izredno redko izjemo, k temu, da jo prepoznamo kot osnovno značilnost, kot esenco realnosti.
+Torej, če nič inteligentnega ne more nastati brez sintropije, potem mora biti Univerzum po svoji naravi inteligenten – ali vsaj strukturiran na način, da spodbuja razvoj inteligence. To spremeni našo perspektivo, od tega, da inteligenco vidimo kot izredno redko izjemo, k temu, da jo prepoznamo kot osnovno značilnost, kot esenco realnosti.
 
 - **Enotnost vsega obstoja:** Inteligenca povezuje vse nivoje obstoja, od atomov do galaksij, od mikrobov do možganov. Z priznavanjem te enotnosti se približujemo k boljšemu razumevanju narave Kozmosa.
 
