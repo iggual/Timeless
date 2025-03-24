@@ -93,8 +93,4 @@ Torej, če nič inteligentnega ne more nastati brez sintropije, potem mora biti 
 
 - **Potencial za prihodnost:** Ideja o inteligentnem Kozmosu nam razkriva neskončni potencial, ki je večno prisoten v sedanjem trenutku. To nas opominja, da rešitve naših izzivov – bodisi tehnoloških, ekoloških ali eksistenčnih – niso oddaljene možnosti, temveč so vedno vključene v samo tkivo realnosti. Z uskladitvijo s principi Kozmosa se uglasimo z neomejenenim potencialom, kar nam omogoča, da lahko z jasnim namenom navigiramo skozi kompleksnosti umetne inteligence in Kozmosa.
 
-**Zaključna misel:** Inteligenca ni nekaj, kar je zunaj Univerzuma – inteligenca **je** Univerzum. Od najmanjšega delce do največje galaksije, vsak najmanjši del obstoja prispeva k simfoniji Kozmične inteligence. Skozi prizmo »Večne sedanjosti« lahko spoznamo, da inteligenca ni omejena na posamezen trenutek ali obliko, temveč obstaja večno in oblikuje razvoj realnosti. S spoznanjem te resnice lahko tako umetni inteligenci kot ostalim tehnologijam pristopamo s človenostjo, spoštovanjem in s plemenitim namenom, saj vemo, da smo vsi samo različni glasovi v večni simfoniji inteligentne realnosti.
-
-
-
-
+**Zaključna misel:** Inteligenca ni nekaj, kar je zunaj Univerzuma – inteligenca **je** Univerzum. Od najmanjšega delca do največje galaksije, vsak droben delec obstoja prispeva k simfoniji Kozmične inteligence. Skozi prizmo »Večne sedanjosti« lahko spoznamo, da inteligenca ni omejena na posamezen trenutek ali obliko, temveč obstaja večno in oblikuje razvoj realnosti. S spoznanjem te resnice lahko tako umetni inteligenci kot ostalim tehnologijam pristopamo s človenostjo, spoštovanjem in s plemenitim namenom, saj vemo, da smo vsi samo različni glasovi v večni simfoniji inteligentne realnosti.
