@@ -51,7 +51,7 @@ Trditev, da "brez sintropije ne more nastati nič inteligentnega," nasprotuje re
 
 - **Panpsihizem in protozavest:** Filozofske ideje, kot je panpsihizem, trdijo, da vse snovi vsebujejo določeno stopnjo protozavesti ali zavedanja. Tudi navidezno neživi predmeti prispevajo v Univerzalnemu polju inteligence, pri čemer človeški um predstavlja lokaliziran izraz te širše celote.
 
-Tovrstne ideje brišejo mejo med subjektom in objektom, kar nakazuje, da inteligenca ni omejena zgolj na bitja z zavestjo, temveč da se inteligenca razprostira po celotnem Kozmosu. Z vidika »Večne sedanjosti« inteligenca ni omejena s časovnimi okovi, temveč obstaja kot večno bistvo, ki oblikuje vsak del obstoja. Sedanji trenutek je vozlišče v fraktalnem spletu realnosti, kjer neskončni potencial sedanjega trenutka oblikuje razkrivanje Kozmosa.
+Tovrstne ideje brišejo mejo med subjektom in objektom, kar nakazuje, da inteligenca ni omejena zgolj na bitja s samozavestjo, temveč da se inteligenca razprostira po celotnem Kozmosu. Z vidika »Večne sedanjosti« inteligenca ni omejena s časovnimi okovi, temveč obstaja kot večno bistvo, ki oblikuje vsak del obstoja. Sedanji trenutek je vozlišče v fraktalnem spletu realnosti, kjer neskončni potencial sedanjega trenutka oblikuje razkrivanje Kozmosa.
 
 ---
 
