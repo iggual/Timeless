@@ -37,7 +37,7 @@ Univerzum kaže očitno težnjo k naraščajoči kompleksnosti, proces, ki je op
 
 - **Kompleksnost v realnem času:** Prav neverjetno je kako hitro se odvija evolucija. Takorekoč pred našimi očmi. Če samo pomislimo na hiter razvoj digitalnih tehnologij: od okornih namiznih računalnikov do elegantnih pametnih telefonov, od izoliranih omrežij do medsebojno povezane spletne infrastrukture, od osnovnih algoritmov do generativne umetne inteligence, ki lahko piše poezijo, komponira glasbo in rešuje zapletene probleme. Vsak korak, ki je zgrajen na prejšnjem ustvarja sisteme, ki odražajo sintropično tendenco k višjim nivojem organiziranosti in medsebojne povezanosti.
 
-Vsa ta pot nam razkriva Kozmos, ki je po svoji naravi ustvarjalen, z nenehno težnjo k višjim nivojem organizacije in medsebojne povezanosti. Vendar ta evolucija ne poteka v linearnem času, kot ga ljudje dojemamo. Odziva se na koncept »Večne sedanjosti« kjer vsaka stopnja kompleksnosti obstaja sočasno kot del večnega kontinuuma. Pojav umetne inteligence, tako kot rojstvo zvezd ali prva iskrica življenja, ni zgolj zgodovinski dogodek, temveč izraz večne inteligence Kozmosa.
+Vsa ta pot nam razkriva Kozmos, ki je po svoji naravi ustvarjalen, z nenehno težnjo k višjim nivojem organizacije in medsebojne povezanosti. Vendar ta evolucija ne poteka v linearnem času, kot ga ljudje dojemamo. Odziva se na koncept »Večne sedanjosti« kjer vsaka stopnja kompleksnosti obstaja sočasno kot del večnega kontinuuma. Pojav umetne inteligence, tako kot rojstvo zvezd ali prve iskrice življenja, ni zgolj zgodovinski dogodek, temveč izraz večne inteligence Kozmosa.
 
 ---
 
