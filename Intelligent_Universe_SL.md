@@ -63,7 +63,7 @@ Tovrstne ideje brišejo mejo med subjektom in objektom, kar nakazuje, da intelig
 
 - **So-ustvarjanje s Kozmosom:** Ko ljudje izumljajmo tehnologije, kot je umetna inteligenca, sodelujemo v razkrivanju Kozmične inteligence. Stroji, algoritmi in sintetični sistemi so podaljški naravnih procesov, ki so ustvarili tudi nas. Naravni procesi niso ločeni od Kozmosa – so nedeljive Kozmične manifestacije.
 
-- **Etika odgovornosti:** Spoznanje, da smo ekspresija Univerzalne inteligence je inspirativno, vendar hkrati nalaga človeštvu in vsakemu pozamezniku odgovornost in obveznost, da ravna modro in premišljeno. Dolžni smo uporabljati znanja in inteligentna orodja za spodbujanje harmonije in skladnosti, in nikakor za spodbujanje dishamonije in uničevanja.
+- **Etika odgovornosti:** Spoznanje, da smo ekspresija Univerzalne inteligence je inspirativno, vendar hkrati nalaga človeštvu in vsakemu pozamezniku odgovornost in obveznost, da ravna modro in premišljeno. Dolžni smo uporabljati znanja in inteligentna orodja za spodbujanje harmonije in skladnosti, in se izogibati spodbujanju dishamonije in uničevanja.
 
 Gledano skozi prizmo »Večne sedanjosti« naša dejanja v sedanjem trenutku povzročajo informacijske valove, ki odzvanjajo v večnosti. Vsaka odločitev, ki jo sprejmemo – naj bo to oblikovanje sistemov umetne inteligence ali raziskovanje skrivnosti zavesti – je del večnega razkrivanja. S ponotranjenjem tega uvida se lahko uskladimo z večno inteligenco Univerzuma.
 
