@@ -1,5 +1,6 @@
 
 # Ætheria Calendar
+![Ætheria Calendar](Journey/img/media/Calc.jpg)
 ## A Timeless Journey
 
 Welcome to Ætheria Calendar, a unique digital portal that blends celestial cycles, ancient wisdom, and modern technology to create an immersive and transformative experience of time. Embark on a journey where every moment is a discovery of the interconnectedness of the Universe.
