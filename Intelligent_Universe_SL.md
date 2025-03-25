@@ -55,7 +55,7 @@ Tovrstne ideje brišejo mejo med subjektom in objektom, kar nakazuje, da intelig
 
 ---
 
-## Človeštvo kot odsev kozmične inteligence
+## Človeštvo kot odsev Kozmične inteligence
 
 Če je Kozmos inteligenten, potem človeška inteligenca ni anomalija, temveč mikrokosmos večje celote. Naša sposobnost razmišljanja, ustvarjanja in izúmljanja odraža ista načela, ki vladajo Kozmosu.
 
