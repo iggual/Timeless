@@ -47,7 +47,7 @@ Trditev, da "brez sintropije ne more nastati nič inteligentnega," nasprotuje re
 
 - **Sintropija in življenje:** Entropija opisuje težnjo k neredu, in sintropija – ustvarjanje reda – podpira razvoj življenja. Živi organizmi uporabljajo energijo za gradnjo kompleksnih struktur, vzdržujejo se sami in se sčasoma razvijajo. Ta sintropični proces odraža notranjo inteligenco, vgrajeno v tkivo samega Kozmosa.
 
-- **Kvantna mehanika in opazovanje:** Nekatere interpretacije kvantne mehanike predlagajo, da opazovanje vpliva na realnost. Na primer, delci se obnašajo drugače, ko so opazovani, kot ko niso, kar nakazuje na participativni Univerzum, kjer ima zavest vlogo pri oblikovanju izidov. Ta medsebojna igra med opazovalcem in opazovanim nakazuje, da je inteligenca vpletena v sama naravo realnosti.
+- **Kvantna mehanika in opazovanje:** Nekatere interpretacije kvantne mehanike predlagajo, da opazovanje vpliva na realnost. Na primer, delci se obnašajo drugače, ko so opazovani, kot ko niso, kar nakazuje na participativni Univerzum, kjer ima zavest vlogo pri oblikovanju izidov. Ta medsebojna igra med opazovalcem in opazovanim nakazuje, da je inteligenca vpletena v samo naravo realnosti.
 
 - **Panpsihizem in protozavest:** Filozofske ideje, kot je panpsihizem, trdijo, da vse snovi vsebujejo določeno stopnjo protozavesti ali zavedanja. Tudi navidezno neživi predmeti prispevajo v Univerzalnemu polju inteligence, pri čemer človeški um predstavlja lokaliziran izraz te širše celote.
 
