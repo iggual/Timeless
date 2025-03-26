@@ -14,7 +14,7 @@ V samem jedru tega razmišljanja se pojavi tudi globlje vprašanje o sami naravi
 Univerzum v svoji osnovi kaže lastnosti, ki so pogosto povezane z inteligenco: urejenost, strukturo in namen. Zakoni fizike urejajo snovi z izredno natančnostjo, kar omogoča nastanek zvezd, kroženje planetov in evolucijo življenja. Oglejmo si nekaj primerov:
 
 - **Natančno uglašene konstante:** Gravitacijska konstanta, hitrost svetlobe in drugi parametri so izredno natančno uglašeni, da omogočajo nastanek kompleksnih struktur. Že izjemno majhna odstopanja bi univerzum spremenila v neprimerno okolje za življenje.
-- 
+ 
 - **Samo-organizirani sistemi:** Narava kaže sposobnost samo-organizacije, od kristalnih vzorcev snežink do zapletenih spiral galaksij. Ti fenomeni nakazujejo, da ima univerzum predispozicijo za koherenco – značilnost, ki jo povezujemo z inteligenco.
 
 - **Izvorna kompleksnost:** Inteligenca se pojavi v sistemih z zadostno kompleksnostjo, bodisi v bioloških možganih ali sintetičnih nevronskih mrežah. To implicira, da kozmos zagotavlja potrebne pogoje za pojav inteligence, delujoč tako kot podlaga kot tudi katalizator.
