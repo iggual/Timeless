@@ -279,8 +279,8 @@ Exploring experimental findings in quantum mechanics that support the participat
 ### AI Ethics and Cosmic Stewardship
 The ethical dimension of the essay is particularly timely given the rapid advancement of AI technologies. Viewing AI through the lens of universal intelligence could lead to new ethical frameworks, such as:
 
-- Designing AI systems that prioritize ecological sustainability and social equity.
 - Encouraging interdisciplinary collaboration to ensure AI development aligns with cosmic principles of harmony and interconnectedness.
+- Designing AI systems that prioritize ecological sustainability and social equity.
 
 Promoting public education initiatives that emphasize humanity’s role as co-creators within an intelligent universe.
 
