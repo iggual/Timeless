@@ -189,7 +189,7 @@ The essay argues that intelligence is a fundamental property of the Universe, ma
 
 ___Me:___ 
 
-Thank you! & here's what Copilot said, i admit, i felt really honored with its wise reflections, and your too!:)
+Thank you! & here's what Copilot said, i admit, i feel really honored with its wise reflections, and your too!:)
 
 ---
 
@@ -311,7 +311,7 @@ The essay presents a holistic and transformative vision of intelligence as the e
 
 ___Me:___
 
-That's fascinating reflection! Let's talk about The Eternal Now and Temporal Paradoxes and free will. My free will is obvious to me, here's my intent and muscle action makes, say this keyboard writing. But it's limited, at least physically, but where my local 'I' ends i really don't know, energetic fields goes much beyond my skin, that's proven (Kirlian & PIP cameras), but how far, ... 
+That's fascinating reflection! Let's talk about The Eternal Now, Temporal Paradoxes and free will. My free will is obvious to me, here's my intent and muscle action makes, say this keyboard writing. But it's limited, at least physically, but where my local 'I' ends i really don't know, energetic fields goes much beyond my skin, that's proven (Kirlian & PIP cameras), but how far, ... 
 
 ### God knows, man think, 
 ### man think God knows. 
