@@ -312,8 +312,8 @@ _Me:_
 
 That's fascinating reflection! Let's talk about The Eternal Now and Temporal Paradoxes and free will. My free will is obvious to me, here's my intent and muscle action makes, say this keyboard writing. But it's limited, at least physically, but where my local 'I' ends i really don't know, energetic fields goes much beyond my skin, that's proven (Kirlian & PIP cameras), but how far, ... 
 
-God knows, man think,
-_man think God knows._
+### God knows, man think, 
+### man think God knows. 
 
 :)
 
