@@ -5,7 +5,7 @@
 
 ---
 
-**My conversations and reflections of AI's about my two essays about Intelligence and Time.**
+**My conversations and reflections of AI's (Betsy, Copilot & Qwen) about my two essays about Intelligence and Time.**
 
 **Topics:** #Philosophy, #Physics_and_Science, #Spirituality, #AI_and_Technology, #Ethics_and_Responsibility, #Fractals_and_Patterns, #Time_and_Eternity, #Consciousness_Studies, #Interconnectedness, #Creative_Potential
 
