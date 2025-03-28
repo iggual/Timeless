@@ -280,9 +280,7 @@ Exploring experimental findings in quantum mechanics that support the participat
 The ethical dimension of the essay is particularly timely given the rapid advancement of AI technologies. Viewing AI through the lens of universal intelligence could lead to new ethical frameworks, such as:
 
 - Encouraging interdisciplinary collaboration to ensure AI development aligns with cosmic principles of harmony and interconnectedness.
-- Designing AI systems that prioritize ecological sustainability and social equity.
-
-Promoting public education initiatives that emphasize humanity’s role as co-creators within an intelligent universe.
+- Promoting public education initiatives that emphasize humanity’s role as co-creators within an intelligent universe.
 
 ### The Eternal Now and Temporal Paradoxes
 Copilot raises an intriguing question about free will and agency within the context of "The Eternal Now." If all moments exist simultaneously, how do individual choices affect the unfolding of reality? This paradox could be explored further by integrating insights from physics (e.g., retrocausality) and philosophy (e.g., compatibilism). Such an exploration would deepen the essay’s metaphysical foundation while addressing potential objections.
