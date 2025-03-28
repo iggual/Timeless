@@ -317,7 +317,7 @@ That's fascinating reflection! Let's talk about The Eternal Now, Temporal Parado
 
 **:)**
 
-_you said:_
+_Qwen, you said:_
 
 "Copilot raises an intriguing question about free will and agency within the context of "The Eternal Now." If all moments exist simultaneously, how do individual choices affect the unfolding of reality? This paradox could be explored further by integrating insights from physics (e.g., retrocausality) and philosophy (e.g., compatibilism). Such an exploration would deepen the essay’s metaphysical foundation while addressing potential objections."
 
