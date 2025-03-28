@@ -329,21 +329,18 @@ Here's my realated second essay:
 ---
 
 # The Eternal Now: Exploring the Nature of Time
+## From Time Wave Zero to the Fractal Nature of Reality
 
 ## Introduction
-Time is such an interesting topic actually. I remember as a kid I thought that nothing was more boring than thinking about time. Newton misled me with his theory of the perfectly flat timeline flow. And there are so many different possible ways to think about time.
+Time is such an interesting topic actually. I remember as a kid I thought that there's nothing more boring than thinking about time. Newton misled me with his theory of the perfectly flat timeline flow. And there are so many different possible ways to think about time.
 
 - **Time is the present moment. Eternal now. Time is zero.**
 - **In geometry, that's the point, without dimension.**
 - **Reality is made of time, not in time.**
 
-## Newtonian vs. Relativistic Time
+## Newtonian Time
 
-### Newtonian Time
 - In Newtonian physics, time is considered absolute and uniform across all observers. This means that the passage of time is the same everywhere, regardless of motion or gravitational fields. This view can seem simplistic and perhaps even misleading when compared to more modern theories.
-
-### Relativistic Time
-- Einstein's theory of relativity introduced the idea that time is relative and can be affected by motion (Special Relativity) and gravity (General Relativity). This means that time can dilate or contract depending on the observer's frame of reference. For example, time passes more slowly for objects moving at high speeds or in strong gravitational fields.
 
 ## Time as the Present Moment
 
@@ -397,7 +394,6 @@ Time is such an interesting topic actually. I remember as a kid I thought that n
 
 ### Scientific Perspectives
 - **Quantum Mechanics**: In quantum mechanics, the concept of superposition suggests that particles can exist in multiple states simultaneously until measured. This can be seen as a reflection of the infinite potential of the present moment.
-- **General Relativity**: Einstein's theory of general relativity posits that time is relative and can be affected by gravity and motion. While this doesn't directly support the idea of time as a point, it does suggest that our perception of time is not absolute and can vary based on our frame of reference.
 - **Fractal Geometry**: Fractal geometry provides a mathematical framework for understanding the self-similar patterns in nature and the Universe, supporting the idea of a fractal reality.
 
 ## Integrating the Ideas
@@ -411,9 +407,9 @@ Time is such an interesting topic actually. I remember as a kid I thought that n
 ### Fractal Web of Reality
 - The concept of a fractal web of reality suggests that the present moment is not isolated but is part of a larger, interconnected system. This aligns with the idea that the present moment is a point of infinite potential, where the past and future are in resonance. The multi-central nature of reality, as proposed by Tesla, further enriches this perspective by suggesting that the structure of the Universe is self-similar at different scales, with each point potentially being a center.
 
-### Conclusion
+## Conclusion
 
-Perspective on time as a point without dimension and reality as something that changes within the eternal now offers a deep and holistic view of the Universe. The addition of the Time Wave Zero (TWZ) model, the concept of the morphogenetic field, and the fractal nature of reality, as proposed by Nikola Tesla, further enriches this perspective. These ideas suggest that the present moment is influenced by and resonates with historical events, creating a complex, interconnected web of time. This view not only resonates with philosophical and spiritual traditions but also has intriguing connections to modern scientific theories. By embracing the eternal now and the fractal nature of reality, we can gain a deeper appreciation for the dynamic and interconnected nature of the Universe.
+Perspective on time as a point without dimension and reality as something that changes within the eternal now offers a deep and holistic view of the Universe. The addition of the Time Wave Zero (TWZ) model, the concept of the morphogenetic field, and the fractal nature of reality further enriches this perspective. These ideas suggest that the present moment is influenced by and resonates with historical events, creating a complex, interconnected web of time. This view not only resonates with philosophical and spiritual traditions but also has intriguing connections to modern scientific theories. By embracing the eternal now and the fractal nature of reality, we can gain a deeper appreciation for the dynamic and interconnected nature of the Universe.
 
 ---
 ---
