@@ -21,7 +21,6 @@ Let us embark on this journey together, exploring the infinite potential contain
 
 ---
 ---
----
 
 # Intelligence as the Fabric of Reality: Rethinking AI, Humanity, and the Universe
 
