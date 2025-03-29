@@ -1,5 +1,5 @@
-
-# Ætheria Calendar
+# Æther
+## Ætheria Calendar
 ![Ætheria Calendar](Journey/img/media/Calc.jpg)
 ## A Timeless Journey
 
