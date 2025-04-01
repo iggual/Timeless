@@ -154,12 +154,15 @@ The concept of the "Eternal Now" has roots in various philosophical and spiritua
 **Parmenides:** This pre-Socratic philosopher argued for the unchanging nature of reality, suggesting that what exists is a timeless, unified "One." This resonates with the idea of a reality that is not subject to the flow of time.
 
 **Plato:** His theory of Forms posits a realm of eternal, perfect ideas that exist outside of the changing physical world. This suggests a reality beyond the temporal.
-Hellenistic Philosophy:
 
-**Stoicism:** Stoics emphasized living in accordance with nature and accepting the present moment. While not explicitly the "Eternal Now," their focus on the present aligns with its importance.   
-Medieval Philosophy:
+## Hellenistic Philosophy:
 
-**Augustine of Hippo:** In his Confessions, Augustine grappled with the nature of time, suggesting that the past is memory, the future is expectation, and only the present truly exists, but even the present is fleeting. While not a full "Eternal Now," he highlighted the subjective and elusive nature of time.   
+**Stoicism:** Stoics emphasized living in accordance with nature and accepting the present moment. While not explicitly the "Eternal Now," their focus on the present aligns with its importance.
+
+## Medieval Philosophy:
+
+**Augustine of Hippo:** In his Confessions, Augustine grappled with the nature of time, suggesting that the past is memory, the future is expectation, and only the present truly exists, but even the present is fleeting. While not a full "Eternal Now," he highlighted the subjective and elusive nature of time.
+
 **Boethius:** In The Consolation of Philosophy, Boethius discussed God's perspective as being outside of time, seeing all of time as a simultaneous present. This is a strong precursor to the "Eternal Now" concept.   
 
 ## Eastern Religions and Spirituality:
