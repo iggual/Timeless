@@ -131,7 +131,7 @@ ___Gemini:___
 
 These are excellent and crucial questions that lie at the heart of contemplating the "Eternal Now." Let's break them down:
 
-**How does free will operate within the context of the Eternal Now?**
+## How does free will operate within the context of the Eternal Now?
 
 This is a deeply debated question with no single, universally accepted answer. Here are some potential perspectives on how free will might function (or not function) within the framework of the Eternal Now:
 
