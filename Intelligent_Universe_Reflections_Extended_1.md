@@ -160,7 +160,7 @@ Hellenistic Philosophy:
 Medieval Philosophy:
 
 **Augustine of Hippo:** In his Confessions, Augustine grappled with the nature of time, suggesting that the past is memory, the future is expectation, and only the present truly exists, but even the present is fleeting. While not a full "Eternal Now," he highlighted the subjective and elusive nature of time.   
-Boethius: In The Consolation of Philosophy, Boethius discussed God's perspective as being outside of time, seeing all of time as a simultaneous present. This is a strong precursor to the "Eternal Now" concept.   
+**Boethius:** In The Consolation of Philosophy, Boethius discussed God's perspective as being outside of time, seeing all of time as a simultaneous present. This is a strong precursor to the "Eternal Now" concept.   
 
 ## Eastern Religions and Spirituality:
 
