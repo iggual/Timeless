@@ -12,7 +12,7 @@ Spomnim se, ko sem bil otrok sem mislil, da nič ni bolj dolgočasnega, kot razm
 
 ## Newtonov čas
 
-- **Issac Newton** je čas obravnaval kot absolutno ravno in gladko premico, ki enakomerno __teče__ v prihodnost. To pomeni, da je __tok časa__ povsod enak. Ta pogled izgleda zelo poenostavljen in pravzaprav zavajajoč, ko ga primerjamo s sodobnejšimi teorijami.
+- **Issac Newton** je čas obravnaval kot absolutno ravno in gladko premico, ki enakomerno _teče_ v prihodnost. To pomeni, da je _tok časa_ povsod enak. Ta pogled izgleda zelo poenostavljen in pravzaprav zavajajoč, ko ga primerjamo s sodobnejšimi teorijami.
 
 ## Čas kot sedanji trenutek
 
@@ -32,7 +32,7 @@ Koncept večnega sedanjika nakazuje, da obstaja le sedanji trenutek. Preteklost 
 
 ### Sprememba in realnost
 
-- Če je čas točka brez dimenzije potem mora biti vsaka sprememba, ki jo zaznavamo v realnosti dogajanje znotraj tega večnega sedanjika. To pomeni, da je tisto, kar doživljamo kot __tok časa__, pravzaprav vrsta sprememb, ki se dogajajo v sedanjem trenutku. Realnost se ne premika skozi čas; ampak se realnost nenehno spreminja in preoblikuje v okviru večnega sedanjika.
+- Če je čas točka brez dimenzije potem mora biti vsaka sprememba, ki jo zaznavamo v realnosti dogajanje znotraj tega večnega sedanjika. To pomeni, da je tisto, kar doživljamo kot _tok časa_, pravzaprav vrsta sprememb, ki se dogajajo v sedanjem trenutku. Realnost se ne premika skozi čas; ampak se realnost nenehno spreminja in preoblikuje v okviru večnega sedanjika.
 
 ### Čas kot edina nekončnost
 
