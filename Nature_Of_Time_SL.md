@@ -8,7 +8,7 @@ Spomnim se, ko sem bil otrok sem mislil, da nič ni bolj dolgočasnega, kot razm
 
 - **Čas je sedanji trenutek. Večni zdaj. Čas je nič (0).**
 - **V geometriji je nič (0) točka, brez dimenzije.**
-- **Resničnost je narejena iz časa, ne v času.**
+- **Realnost je narejena iz časa, ne v času.**
 
 ## Newtonov čas
 
