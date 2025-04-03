@@ -12,7 +12,7 @@ Spomnim se, ko sem bil otrok sem mislil, da nič ni bolj dolgočasnega, kot razm
 
 ## Newtonov čas
 
-- **Issac Newton** je čas obravnaval kot absolutno ravno in gladko premico, ki enakomerno _teče_ v prihodnost. To pomeni, da je _tok časa_ povsod enak. Ta pogled izgleda zelo poenostavljen in pravzaprav zavajajoč, ko ga primerjamo s sodobnejšimi teorijami.
+- **Issac Newton** je čas obravnaval kot absolutno ravno in gladko premico, ki enakomerno _teče_ v prihodnost. To pomeni, da je _tok časa_ povsod enak. Ta poenostavljen pogled je pravzaprav zelo zavajajoč, ko ga primerjamo s sodobnejšimi teorijami.
 
 ## Čas kot sedanji trenutek
 
