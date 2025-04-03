@@ -1,5 +1,5 @@
 
-# Večni zdaj: Raziskovanje narave časa
+# Večni sedanji trenutek: Raziskovanje narave časa
 ## Od TWZ do fraktalne narave resničnosti
 
 ## Uvod
