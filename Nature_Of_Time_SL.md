@@ -16,7 +16,7 @@ Spomnim se, ko sem bil otrok sem mislil, da nič ni bolj dolgočasnega, kot razm
 
 ## Čas kot sedanji trenutek
 
-- Koncept "časa kot sedanji trenutek" je v skladu z idejo "večnega sedanjika." Ta perspektiva nakazuje, da obstaja le sedanji trenutek, preteklost in prihodnost sta zgolj konstrukta našega uma. To stališče je pogosto povezano z določenimi filozofskimi in duhovnimi tradicijami, ki poudarjajo življenje v sedanjem trenutku ter minljivost vsega fizičnega.
+- Koncept "čas kot sedanji trenutek" je v skladu z idejo "večnega sedanjika." Ta perspektiva nakazuje, da obstaja le sedanji trenutek, preteklost in prihodnost sta zgolj konstrukta našega uma. To stališče je pogosto povezano z določenimi filozofskimi in duhovnimi tradicijami, ki poudarjajo življenje v sedanjem trenutku ter minljivost vsega fizičnega.
 
 ## Čas kot nič (0): Točka brez dimenzije
 
