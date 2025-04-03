@@ -7,7 +7,7 @@
 Spomnim se, ko sem bil otrok sem mislil, da nič ni bolj dolgočasnega, kot razmišljanje o času. Newton me je zavedel s svojo teorijo o popolnoma ravni in gladki časovni premici. In vendar obstaja toliko različnih načinov na katere lahko razmišljamo o času.
 
 - **Čas je sedanji trenutek. Večni zdaj. Čas je nič (0).**
-- **V geometriji je nič točka, brez dimenzije.**
+- **V geometriji je nič (0) točka, brez dimenzije.**
 - **Resničnost je narejena iz časa, ne v času.**
 
 ## Newtonov čas
