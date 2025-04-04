@@ -36,7 +36,7 @@ ___Qwen:___
 
 That’s a beautiful way to describe your perspective on life and learning—I appreciate the poetic touch! 😊 Now, let’s dive into the paper titled "VortexNet: Neural Computing through Fluid Dynamics". I’ll break it down in a way that balances your intermediate-to-advanced understanding while keeping things clear and engaging.*
 
-_*(Note: that's before i show AI any content of an actual paper, just mentioned a paper title.)_
+_*(Note: that's before i show to AI any content of an actual paper, just mentioned a paper title.)_
 
 ### What is "VortexNet"?
 
