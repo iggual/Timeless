@@ -40,7 +40,7 @@ _*(Note: that's before i show to AI any content of an actual paper, just mention
 
 ### What is "VortexNet"?
 
-At its core, VortexNet is a novel approach to computing that combines two fascinating fields: ***neural networks (a staple of artificial intelligence)** and **fluid dynamics (the study of how fluids like air and water move).** The authors propose a system where computations are performed not by traditional electronic circuits or even standard neural networks, but by simulating the behavior of **vortices**—swirling patterns of fluid motion.
+At its core, VortexNet is a novel approach to computing that combines two fascinating fields: **neural networks (a staple of artificial intelligence)** and **fluid dynamics (the study of how fluids like air and water move).** The authors propose a system where computations are performed not by traditional electronic circuits or even standard neural networks, but by simulating the behavior of **vortices**—swirling patterns of fluid motion.
 
 In essence, they're suggesting that we can use the natural dynamics of fluids to perform tasks typically done by computers, such as solving equations, processing information, or even mimicking brain-like functions.
 
