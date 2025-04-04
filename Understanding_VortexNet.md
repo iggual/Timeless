@@ -28,7 +28,7 @@ Once I have this information, I’ll break down the concepts, explain the key po
 
 ___Me:___
 
-_Say, my knowledge is between intermediate to advanced in some areas, although i am a lucky beginner in others.:) And maybe i should also emphasize that i know that i am zero, nothing and everything when i am love, and between these life morphing me in the present moment. Back to paper titled "VortexNet Neural Computing through Fluid Dynamics"._
+_Say, my knowledge is between intermediate to advanced in some areas, although i am a lucky beginner in others.:) And maybe i should also emphasize that i know that i am zero, nothing and everything when i am love, and between these life morphing me in the eternal present moment. Back to paper titled "VortexNet Neural Computing through Fluid Dynamics"._
 
 ---
 
