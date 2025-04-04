@@ -720,7 +720,7 @@ This part explains how the authors turned their fancy fluid-inspired ideas into 
 
 ### 1. Discretization Strategy
 
-What Does "Discretization" Mean?
+#### What Does "Discretization" Mean?
 
 In math, equations like the Navier–Stokes equation describe continuous processes (things that change smoothly over time and space). But computers can’t handle infinite smoothness—they need discrete steps.
 So, the authors break the problem into small chunks of time (time steps) and space (spatial dimensions or channels).
@@ -844,7 +844,7 @@ In standard attention, weights are computed via:
 
 In contrast, VortexNet’s attention emerges via vortex interactions within S(z,t):
 
-### A_vortex(S) = ∇ × (S·∇)S
+- A_vortex(S) = ∇ × (S·∇)S
 
 When two vortices come into proximity, they influence each other’s trajectories through the coupled terms in the Navier–Stokes equation. This physically motivated attention requires no explicit pairwise comparison; rotational fields drive the emergent “focus” effect.
 
