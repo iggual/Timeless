@@ -517,7 +517,7 @@ If youâ€™d like, we can dive deeper into any specific part of the introductionâ€
 
 ___Me:___ 
 
-_Thank you, here's next paragraphs, KISS (keep it simple stupid:)_
+_Thank you, here's next paragraphs, KISS (Keep It Simple Stupid:)_
 
 ---
 
