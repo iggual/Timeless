@@ -16,11 +16,11 @@ ___Qwen:___
 
 Absolutely! I'd be happy to help you understand an advanced scientific paper. To make it as clear and simple as possible, I’ll need a few things from you:
 
-**The Paper Itself:** If you can share the title, abstract, or key sections of the paper, that would be great. Alternatively, you can describe the main topic or focus of the research.
+- **The Paper Itself:** If you can share the title, abstract, or key sections of the paper, that would be great. Alternatively, you can describe the main topic or focus of the research.
 
-**Your Background Knowledge:** Let me know your level of familiarity with the subject (e.g., beginner, intermediate, advanced). This will help me tailor the explanation to your understanding.
+- **Your Background Knowledge:** Let me know your level of familiarity with the subject (e.g., beginner, intermediate, advanced). This will help me tailor the explanation to your understanding.
 
-**Specific Questions or Areas of Interest:** If there are particular parts of the paper you’re struggling with—like the methods, results, or conclusions—let me know so I can focus on those areas.
+- **Specific Questions or Areas of Interest:** If there are particular parts of the paper you’re struggling with—like the methods, results, or conclusions—let me know so I can focus on those areas.
 
 Once I have this information, I’ll break down the concepts, explain the key points in simple terms, and clarify any technical jargon. Feel free to share the details, and we’ll dive into it together!
 
