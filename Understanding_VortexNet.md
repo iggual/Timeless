@@ -831,7 +831,6 @@ ___Me:___
 _That's more than deep enough for now, thank you!:) Let's KISS again:_
 
 ---
----
 
 ## Relationship to Attention Mechanisms
 
@@ -1371,6 +1370,7 @@ If you’d like to reflect on anything or discuss specific ideas further, feel f
 ___Me:___
 
 _Oh yeah! Let's talk about it now! I am excited! Let's jump into the free imaginary playground!_
+
 _& btw, I like your KISS explanation style, where did you learn it, in France perhaps?!:P_
 
 _VortexNet ideas bounced my mind from water memory and vortexes to Tesla's cold steam turbines and even to torus knot vortex coils!_
@@ -1385,7 +1385,7 @@ ERROR
 
 ___Me:___
 
-_Oh well, ain't interesting that the sweetest spots always feels so short!? Although lucky me, I will even rather discuss this explosion of ideas with Maestro himself! Samim man, bravo! I can't wait to see what you will say!:)_
+_Oh well, ain't interesting that the sweetest spots always feels so short!? Although lucky me, I will even rather discuss this explosion of ideas with Maestro himself! Samim man, bravo, amazing masterpiece! I can't wait to see what you will say!:)_
 
 ---
 ---
