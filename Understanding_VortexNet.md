@@ -2,7 +2,7 @@
 ---
 ---
 
-My discussion with AI about [VortexNet](https://samim.io/p/2025-01-18-vortextnet/) scientific paper.
+# My discussion with AI about [VortexNet](https://samim.io/p/2025-01-18-vortextnet/) scientific paper.
 
 ---
 
