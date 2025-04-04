@@ -187,15 +187,15 @@ Wavelets are localized in both space and frequency, making them ideal for studyi
 
 ### Key Differences Between Wavelets and Vortices
 
-### Aspect		Wavelets							Vortices
+### Aspect	|	Wavelets			|				Vortices
 
-Nature			Mathematical tool for signal analysis				Physical phenomenon in fluids
+Nature	|		Mathematical tool for signal analysis		|		Physical phenomenon in fluids
 
-Purpose			Decompose signals into components at different scales		Represent rotational motion in fluids
+Purpose		|	Decompose signals into components at different scales	 |	Represent rotational motion in fluids
 
-Representation		Abstract functions used for computation				Observable structures in fluid flow
+Representation	|	Abstract functions used for computation		|		Observable structures in fluid flow
 
-Application		Signal processing, image compression, multi-scale analysis	Aerodynamics, turbulence modeling, weather prediction
+Application	 |	Signal processing, image compression, multi-scale analysis |	Aerodynamics, turbulence modeling, weather prediction
 
 ### Are Wavelets Used to Study Vortices?
 
@@ -345,7 +345,7 @@ Let me know which direction you’d like to explore further! 🌊
 
 ___Me:___
 
-_Here's an introduction of a paper where i feel already lost with some terminology even, so please explain in a beginner level._
+_Here's an introduction of a paper where i feel already lost with some terminology even, so please explain it in a beginner level._
 
 ---
 
