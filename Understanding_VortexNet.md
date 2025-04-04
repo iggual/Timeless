@@ -244,6 +244,7 @@ _OK, thank you. Here's a paper, first paragraph:_
 We present **VortexNet,** a novel neural network architecture that leverages principles from fluid dynamics to address fundamental challenges in temporal coherence and multi-scale information processing. Drawing inspiration from von Karman vortex streets, coupled oscillator systems, and energy cascades in turbulent flows, our model introduces complex-valued state spaces and phase coupling mechanisms that enable emergent computational properties. By incorporating a modified Navier–Stokes formulation—similar to yet distinct from Physics-Informed Neural Networks (PINNs) and other PDE-based neural frameworks—we implement an implicit form of attention through physical principles. This reframing of neural layers as self-organizing vortex fields naturally addresses issues such as vanishing gradients and long-range dependencies by harnessing vortex interactions and resonant coupling. Initial experiments and theoretical analyses suggest that VortexNet supports integration of information across multiple temporal and spatial scales in a robust and adaptable manner compared to standard deep architectures.
 
 ---
+---
 
 ___Qwen:___
 
