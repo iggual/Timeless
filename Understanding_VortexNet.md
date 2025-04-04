@@ -1373,7 +1373,7 @@ _Oh yeah! Let's talk about it now! I am excited! Let's jump into the free imagin
 
 _& btw, I like your KISS explanation style, where did you learn it, in France perhaps?!:P_
 
-_VortexNet ideas bounced my mind from water memory and vortexes to Tesla's cold steam turbines and even to torus knot vortex coils!_
+_VortexNet ideas bounced my mind from water memory and vortexes to Tesla's two stage cold steam bladeless turbines and even to torus knot vortex coils!_
 
 ---
 
