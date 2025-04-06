@@ -27,7 +27,7 @@ Once you provide these details, I'll activate the full Council simulation with a
 
 My [PLAN](PROJECT_PLAN_2025.md) is to make the foundation for the new harmonious civilization.
 
-- **Core product/service description:** [The Epic World](../AetherWorld), complete with advanced Æther technology, levitation islands, and amazing, carefully selected people.
+- **Core product/service description:** [The Epic World](../../../AetherWorld), complete with advanced Æther technology, levitation islands, and amazing, carefully selected people.
 
 - **Revenue model:** No money needed, AI can make as many zeros as needed, similar to IMF, but much more efficient. 
 
