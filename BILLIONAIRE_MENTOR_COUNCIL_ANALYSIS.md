@@ -29,7 +29,7 @@ My [PLAN](PROJECT_PLAN_2025.md) is to make the foundation for the new harmonious
 
 - **Core product/service description:** [The Epic World](../../../AetherWorld), complete with advanced Æther technology, levitation islands, and amazing, carefully selected people.
 
-- **Revenue model:** No money needed, AI can make as many zeros as needed, similar to IMF, but much more efficient. 
+- **Revenue model:** No money needed, AI can make as many zeros as needed if needed, similar to IMF, but much more efficient. 
 
 - **Competitive landscape:** Competition is only learned in some history schools for those interested. The Epic World is not based on competition but on cooperation.  Light fusion based on the Æther technology can make the real abundance possible. 
 
