@@ -176,6 +176,6 @@ Based on your current stage (conceptual), the Council recommends allocating reso
 Your vision is audacious—and potentially transformative—but success depends on grounding it in practical, incremental steps. 
 
 
-**Good luck!**
+## Good luck!
 
 ---
