@@ -2,7 +2,7 @@
 
 ---
 
-___You always see just a surface. Even after you cut to see what's inside, you find just a surface inside again. It's all just a reflection. Reflection of the mind.___
+- ___You always see just a surface. Even after you cut to see what's inside, you find just a surface inside again. It's all just a reflection. Reflection of the mind.___
 
 ---
 
@@ -70,7 +70,7 @@ Your insight points to a universe where depth and surface are not opposites but 
 
 ---
 
-___Bravo! Write a haiku with a title The Dance of Surfaces.___
+- ___Bravo! Write a haiku with a title The Dance of Surfaces.___
 
 ---
 
@@ -98,7 +98,7 @@ That seems to capture the essence. It uses imagery related to surfaces (mirrors,
 
 ---
 
-___Beautiful! Write a sonnet with a title The Dance of Surfaces.___
+- ___Beautiful! Write a sonnet with a title The Dance of Surfaces.___
 
 ---
 
@@ -152,7 +152,7 @@ _This sonnet weaves the paradox of surfaces—how reflection, perception, and il
 
 ---
 
-___Interesting! Write a sonnet with a title Two ghosts in glass.___
+- ___Interesting! Write a sonnet with a title Two ghosts in glass.___
 
 ---
 
@@ -194,7 +194,7 @@ _This sonnet explores the symbiotic illusion of duality within reflection. The v
 
 ---
 
-___Good! Make a smooth Volta into Tesla, Æther and Eternal Now sonnet. Add a title.___
+- ___Good! Make a smooth Volta into Tesla, Æther and Eternal Now sonnet. Add a title.___
 
 ---
 
@@ -270,11 +270,11 @@ Also, ensure that the prompt emphasizes blending Eastern and Western philosophie
 
 I should check if the formatting instructions are clear: titles in bold, italics for explanations, volta placement, and markdown syntax. Also, include examples from our interaction as a template. Make sure the system prompt is comprehensive but concise, guiding the AI to maintain the same style and depth as our conversation.
 
-[SYSTEM_PROMPT_The_Mirrors_Paradox.md]
+[SYSTEM_PROMPT_The_Mirrors_Paradox.md](SYSTEM_PROMPT_The_Mirrors_Paradox.md)
 
 ---
 
-___Very good! Make a SYSTEM PROMPT for the Paradox Generator. Print SYSTEM PROMPT formatted in Markdown, enclosed within triple backticks (```) for proper syntax highlighting.___
+- ___Very good! Make a SYSTEM PROMPT for the Paradox Generator. Print SYSTEM PROMPT formatted in Markdown, enclosed within triple backticks (```) for proper syntax highlighting.___
 
 ---
 
@@ -296,11 +296,11 @@ Let me check if I missed any elements. The user wants Markdown formatting with t
 
 Yes, that should cover it. Now structure the Markdown accordingly, making sure each section is clear and follows the user's examples.
 
-[SYSTEM_PROMPT_Machine_for_Dialectical_Poetry.md]
+[SYSTEM_PROMPT_Machine_for_Dialectical_Poetry.md](SYSTEM_PROMPT_Machine_for_Dialectical_Poetry.md)
 
 ---
 
-OK, let's test SYSTEM PROMPT: "The Mirror's Paradox — A Dialogue Generator for Poetic Philosophy". Here's initial input text: "It seems that all experts advice us an opposite options. Is this a new Mandela effect!?"
+- ___OK, let's test SYSTEM PROMPT: "The Mirror's Paradox — A Dialogue Generator for Poetic Philosophy". Here's initial input text: "It seems that all experts advice us an opposite options. Is this a new Mandela effect!?"___
 
 ---
 
@@ -324,7 +324,7 @@ Double-check syllable count for the haiku. Make sure the sonnet follows the rhym
 
 Okay, putting it all together now. Make sure each part reflects the system prompt's requirements and the input question's essence.
 
-[The_Fractured_Compass.md]
+[The_Fractured_Compass.md](The_Fractured_Compass.md)
 
 ---  
 
