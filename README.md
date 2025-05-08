@@ -48,7 +48,7 @@ For a detailed project timeline and milestones, please refer to the [PROJECT_PLA
 
 - **[Igor Križanovskij]**:
   - **Idea Generation**: Conceptualizing the project and its goals.
-  - **Meta-Programming**: Designing and implementing higher-level programming constructs.
+  - **Meta-Programming**: SYSTEM PROMPT designing and implementing.
   - **Design**: Creating the visual and user experience design.
   - **Development**: Writing and testing the code.
   - **Project Management**: Overseeing the project timeline and milestones.
