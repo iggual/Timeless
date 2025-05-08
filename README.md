@@ -40,7 +40,7 @@ The soundtrack, complements the visual and thematic elements of the project, imm
 
 ## Project Timeline and Milestones
 
-For a detailed project timeline and milestones, please refer to the [PROJECT_PLAN_2025.md].
+For a detailed project timeline and milestones, please refer to the [PROJECT_PLAN_2025.md](PROJECT_PLAN_2025.md).
 
 ## Acknowledgments
 
